@@ -1,4 +1,4 @@
-# Wipro-s-Sustainability-Machine-Learning-Challenge
+# Wipro's-Sustainability-Machine-Learning-Challenge
 Capstone
 A solar power generation company wants to optimize solar power production and needs the prediction model to predict the Clearsky Global Horizontal Irradiance(GHI). The data is ten years at an interval of every 30 mins with the following data points:
 
